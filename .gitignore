@@ -1,0 +1,12 @@
+# Large data and pipeline output
+*.fastq
+*.fastq.gz
+*.bam
+*.bai
+results/
+work/
+.nextflow*
+data/
+
+# Mac junk
+.DS_Store
